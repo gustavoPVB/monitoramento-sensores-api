@@ -12,7 +12,11 @@
 	<artifactId>monitoramento</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>monitoramento</name>
+<<<<<<< HEAD
 	<description>Demo project for Spring Boot</description>
+=======
+	<description>Api monitoramento</description>
+>>>>>>> 51f1f468c3d53f8e977324e38838db8ee1315527
 	<url/>
 	<licenses>
 		<license/>
