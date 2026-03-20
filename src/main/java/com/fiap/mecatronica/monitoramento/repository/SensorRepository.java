@@ -1,4 +1,4 @@
 package com.fiap.mecatronica.monitoramento.repository;
 
-public class SensorRepository {
+public interface SensorRepository {
 }
